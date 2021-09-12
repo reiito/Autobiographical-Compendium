@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  WindowsInputDeviceStateAdaptor.cpp
+  MouseSimulator.cpp
+  main.cpp
+d:\users\s3607050\ac\inputsimulator\main.cpp(12): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+d:\users\s3607050\ac\inputsimulator\main.cpp(15): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+d:\users\s3607050\ac\inputsimulator\main.cpp(18): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+d:\users\s3607050\ac\inputsimulator\main.cpp(21): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+d:\users\s3607050\ac\inputsimulator\main.cpp(24): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+d:\users\s3607050\ac\inputsimulator\main.cpp(27): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+d:\users\s3607050\ac\inputsimulator\main.cpp(32): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+d:\users\s3607050\ac\inputsimulator\main.cpp(36): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+d:\users\s3607050\ac\inputsimulator\main.cpp(39): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  KeyboardSimulator.cpp
+  InputSimulator.cpp
+  InputBuilder.cpp
+  Generating Code...
+     Creating library D:\Users\s3607050\AC\InputSimulator\Debug\InputSimulator.lib and object D:\Users\s3607050\AC\InputSimulator\Debug\InputSimulator.exp
+  InputSimulator.vcxproj -> D:\Users\s3607050\AC\InputSimulator\Debug\InputSimulator.exe

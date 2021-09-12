@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  InputBuilder.cpp
+  InputSimulator.cpp
+  KeyboardSimulator.cpp
+  main.cpp
+main.cpp(12): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+main.cpp(15): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+main.cpp(18): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+main.cpp(21): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+main.cpp(24): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+main.cpp(27): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+main.cpp(32): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+main.cpp(36): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+main.cpp(39): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  MouseSimulator.cpp
+  WindowsInputDeviceStateAdaptor.cpp
+     Creating library D:\Users\s3607050\AC\InputSimulator\Release\InputSimulator.lib and object D:\Users\s3607050\AC\InputSimulator\Release\InputSimulator.exp
+  Generating code
+  197 of 197 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    13 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  InputSimulator.vcxproj -> D:\Users\s3607050\AC\InputSimulator\Release\InputSimulator.exe
